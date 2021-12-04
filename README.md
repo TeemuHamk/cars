@@ -1,1 +1,1 @@
-#git task
+title: GIT task for HAMK course
