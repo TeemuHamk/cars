@@ -1,5 +1,5 @@
 #!/bin/sh
-read -p 'what did you commit?' commit
+read -p 'what did you commit? ' commit
 git add *
 git commit -m "$commit"
 git branch -M main
