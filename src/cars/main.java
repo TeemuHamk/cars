@@ -18,8 +18,6 @@ public class main {
 
 		Auto auto2 = new Auto("Mercedes", "C-Class", 10);
 		auto2.NaytaTiedot();
-		// Added comment
-		// Added second comment
 		
 	}
 
