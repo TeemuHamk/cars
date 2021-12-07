@@ -11,11 +11,10 @@ public class main {
 		auto1.merkki = "Vayrynen";
 		auto1.Bensanmaara = 10;
 		auto1.tankkaus = 5;
+		auto1.tankkaa(auto1.tankkaus);
 		auto1.NaytaTiedot();
 		
 
-// 		auto1.kiihdyta();
-//		auto1.tankkaa(auto1.Bensanmaara);
 
 		Auto auto2 = new Auto("Mercedes", "C-Class", 10);
 		auto2.NaytaTiedot();
